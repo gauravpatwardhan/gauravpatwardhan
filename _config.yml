@@ -20,28 +20,28 @@ avatar: images/me.png
 # Includes an icon in the footer for each username you enter
 footer-links: 
 <<<<<<< HEAD
-  dribbble: 
-  email: 
-  facebook: 
-  flickr: 
-  github: 
-  instagram: 
-  linkedin: 
-  pinterest: 
-  rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-  twitter: 0xd4rk533d
-  stackoverflow: 
+#  dribbble: 
+#  email: 
+#  facebook: 
+#  flickr: 
+#  github: 
+#  instagram: 
+#  linkedin: 
+#  pinterest: 
+#  rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
+#  twitter: 0xd4rk533d
+#  stackoverflow: 
 =======
   dribbble:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: 
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-  twitter: jekyllrb
+  twitter: 0xd4rk533d
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -54,9 +54,9 @@ disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 <<<<<<< HEAD
-google_analytics: UA-59498343-1
+#google_analytics: UA-59498343-1
 =======
-google_analytics:
+google_analytics: UA-59498343-1
 >>>>>>> FETCH_HEAD
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
