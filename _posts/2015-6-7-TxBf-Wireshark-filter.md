@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Beamforming Wireshark filters
+title: 802.11 Beamforming Wireshark filters
 ---
 
-Being a wireless engineer now-a-days I have to filter beamforming packets from wireless traces for debugging purposes so I hope this filter encourages people to play around with beamforming packets.
+Being a wireless engineer now-a-days I have to filter beamforming packets from 802.11 wireless traces for debugging purposes so I hope this filter encourages people to play around with beamforming packets.
 
 ```
 (wlan.fc.type_subtype == 0x15) || (wlan.fc.type_subtype == 0x0e)
